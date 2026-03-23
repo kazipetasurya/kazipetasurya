@@ -2,7 +2,7 @@
 
 Senior PM and hands-on builder with 11 years of experience shipping AI-powered products, workflow automation systems, and data infrastructure at scale. I work across LLMs, event-driven pipelines, and cross-functional teams — from writing PRDs to defining data contracts to iterating in production.
 
-Currently finishing my MBA at Purdue. Available May 2026.
+Currently finishing my MBT at Purdue. Available May 2026.
 
 ---
 
