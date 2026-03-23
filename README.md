@@ -1,6 +1,6 @@
 # Hi, I'm Surya 👋
 
-Senior PM and hands-on builder with 11 years of experience shipping AI-powered products, workflow automation systems, and data infrastructure at scale. I work across LLMs, event-driven pipelines, and cross-functional teams — from writing PRDs to defining data contracts to iterating in production.
+Senior PM with 11 years of experience shipping AI-powered products, workflow automation systems, and consumer apps at scale across mobility, e-commerce, SaaS, and AI-driven platforms. Proven at translating ambiguous problems into scalable, production-ready solutions, from discovery through rollout
 
 Currently finishing my MBT at Purdue. Available May 2026.
 
@@ -19,7 +19,7 @@ Built for people who use AI heavily and are tired of re-explaining context, losi
 
 ---
 
-### [Litmetrics](https://github.com/kazipetasurya) · AI Legal Intake Automation
+### [Litmetrics](https://app-rendering-6zp9.bolt.host/) · AI Legal Intake Automation
 > *Automating the intake process for law firms using AI.*
 
 Built at Purdue as part of the Burton D. Morgan Venture Concept Competition. Placed **3rd among 120 teams**, winning a $5,000 prize. Litmetrics automates the legal client intake process — reducing manual intake work, standardizing data capture, and surfacing insights for attorneys.
@@ -28,7 +28,7 @@ Built at Purdue as part of the Burton D. Morgan Venture Concept Competition. Pla
 
 ---
 
-### AI Voice & Chat Agents · Course Project
+### [AI Voice & Chat Agents](https://litmetrics-frontend-demo.vercel.app/) . Course Project
 > *Multi-turn conversational agents for customer support.*
 
 Built LLM-based voice and chat agents with context management and intent handling to support multi-turn customer support interactions. Focused on delivering relevant, accurate responses across session boundaries.
